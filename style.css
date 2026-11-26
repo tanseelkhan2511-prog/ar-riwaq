@@ -105,7 +105,7 @@ a {
         rgba(245,242,235,.96) 0%,
         rgba(245,242,235,.80) 42%,
         rgba(245,242,235,.05) 100%),
-        url("images/hero.jpg");
+        url("hero.jpg");
 }
 
 .hero-content {
@@ -209,15 +209,15 @@ h1, h2, h3 {
 }
 
 .photo-one {
-    background-image: url("images/collection-1.jpg");
+    background-image: url("collection-1.jpg");
 }
 
 .photo-two {
-    background-image: url("images/collection-2.jpg");
+    background-image: url("collection-2.jpg");
 }
 
 .photo-three {
-    background-image: url("images/collection-3.jpg");
+    background-image: url("collection-3.jpg");
 }
 
 .collection-card {
@@ -390,7 +390,7 @@ go {
             linear-gradient(90deg,
             rgba(245,242,235,.93),
             rgba(245,242,235,.55)),
-            url("images/hero.jpg");
+            url("hero.jpg");
     }
 
     .hero h1 {
