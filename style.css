@@ -253,7 +253,7 @@ h1, h2, h3 {
 
 .philosophy-photo {
     min-height: 470px;
-    background-image: url("images/philosophy.jpg");
+    background-image: url("philosophy.jpg");
 }
 
 .philosophy-content p:not(.eyebrow):not(.signature) {
